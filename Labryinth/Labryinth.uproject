@@ -2,5 +2,17 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.23",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "Substance",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
+		},
+		{
+			"Name": "ParticleText",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/0c2d7c278eb645d5b8c3be41e2bc859e"
+		}
+	]
 }
